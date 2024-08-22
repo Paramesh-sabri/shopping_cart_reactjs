@@ -1,0 +1,11 @@
+.home-container {
+    padding: 20px;
+    color: #c7d5e0;
+    background-color: #2a475e;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
